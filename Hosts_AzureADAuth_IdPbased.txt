@@ -1,0 +1,3 @@
+aadcdn.msftauth.net
+login.microsoftonline.com
+login.windows.net

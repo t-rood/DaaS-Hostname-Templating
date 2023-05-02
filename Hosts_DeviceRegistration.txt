@@ -1,0 +1,12 @@
+enterpriseregistration.<tenantdomain>
+config.office.com
+device.login.microsoftonline.com
+enrollment.manage.microsoft.com
+enterpriseregistration.windows.net
+graph.windows.net
+login.microsoft.com
+login.microsoftonline.com
+login.windows.net
+manage.microsoft.com
+*.manage.microsoft.com
+*.officeconfig.msocdn.com
